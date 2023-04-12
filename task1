@@ -1,0 +1,16 @@
+Question : Explain very briefly the difference between Git and GitHub. 
+
+Answer:
+
+# GIT : Git is a distributed version control system that tracks changes to source code. 
+# GITHUB : GitHub is a web-based hosting service for git repository. 
+
+Differences:
+Git is a command line interface (CLI) , a command line tool that requires a interface to interact with the system. Where as GitHub is a graphical interface and a development platform created for developers. 
+
+GitHub is a open source it mean code is stored in its main server, but in case of git it creates a local repository to track the changes locally. 
+
+Git can be installed locally but GitHub is hosted on cloud server. 
+Git stores and catalog changes in code in a repository. 
+GitHub provides a platform to collaborate with others to work together at same time. 
+Git can run without GitHub as other web-based git repositories are also available. 
